@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutomaticAlarmSetter</string>
+    <string name="set_alarm_button_text">Set alarm</string>
+    <string name="no_alarm_set_text">No alarms set!</string>
+    <string name="cancel_alarm_button_text">Cancel alarm</string>
+    <string name="alarm_will_be_set_format_text">Your alarm will ring %s after the screen is turned off</string>
+    <string name="alarm_will_be_set_notification_title">Alarm will be set</string>
+    <string name="snooze_button_text">Snooze</string>
+    <string name="stop_alarm_button_text">Stop</string>
+    <string name="title_activity_ring">RingActivity</string>
+    <string name="time_format_24_hour">k:mm</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="alarm_is_set_format_text">An alarm is set to ring at %s</string>
+    <string name="alarm_is_set_notification_title_text">An alarm is set</string>
+</resources>
